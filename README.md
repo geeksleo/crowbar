@@ -248,3 +248,7 @@ Once you have executed Crowbar, it generates 2 files for logging and result that
 - [Patator](https://github.com/lanjelot/patator) - A multi-purpose brute-forcer for protocols that are not supported by Crowbar
 - [Debian OpenSSL Predictable PRNG](https://github.com/g0tmi1k/debian-ssh) - Weak predictable SSH keys for Debian based systems (2011)
 - [ssh-badkeys](https://github.com/rapid7/ssh-badkeys) - A collection of static private SSH keys
+
+
+### Comando homologado por Leonardo F.
+./crowbar.py -b rdp -s 0.0.0.0/32 -u suporte -C pass.lst
